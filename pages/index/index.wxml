@@ -1,0 +1,7 @@
+<view class="search-box">
+    <input type="text" name="cityid" placeholder="点击搜索" class="search-txt" bindblur="getCityId"></input>
+    <view class="search-btn">
+        <icon class="iconfont icon-search" size="17"></icon>
+    </view>
+</view>
+<view class="result">111</view>
